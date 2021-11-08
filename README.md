@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 💻✍🏼 Sou estudante do curso de licenciatura em ciências da computação no Instituto Federal de Educação, Ciência e Tecnologia, Campus Senhor do Bonfim.
 
 <p align="left"> 
-Um ano e meio de experiência com <strong>react</strong>, <strong>react native</strong> , <strong>typescrip</strong> e <strong>javascript</strong>, também com algumas refermentas de prototipagem como <strong>Figma</strong>. Continuo estudando e buscando me aprofundar cada vez mais nessas tecnologias. No momento estou desenvolvendo uma aplicação mobile que surgiu através de convite de uma parceria com a UFBA -Universidade Federal da Bahia. O projeto tem como objetivo transforma um projeto de extensão em uma versão virtual e promover acessibilidade para o mesmo.
+Um ano e meio de experiência com <strong>react</strong>, <strong>react native</strong> , <strong>typescrip</strong> e <strong>javascript</strong>, também com algumas ferramentas de prototipagem como <strong>Figma</strong>.Continuo estudando e buscando me aprofundar cada vez mais nessas tecnologias. No momento estou desenvolvendo uma aplicação mobile que surgiu através de convite de parceria com a UFBA -Universidade Federal da Bahia. O projeto tem como objetivo transformar um projeto de extensão em uma versão virtual e promover acessibilidade para o mesmo.
+
 
 <br/>
 <!-- ## Tecnologias e ferramentas que uso no meu dia
