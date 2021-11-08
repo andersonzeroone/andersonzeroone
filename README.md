@@ -121,9 +121,7 @@ Um ano e meio de experiência com <strong>react</strong>, <strong>react native</
 <div style="display:flex">
 
 [![Github Badge](https://img.shields.io/badge/-andersonzeroone-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersonzeroone)](https://github.com/andersonzeroone)
-
- [![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-pablo-js/)](https://www.linkedin.com/in/anderson-pablo-js/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-pablo-js/)](https://www.linkedin.com/in/anderson-pablo-js/)
 [![Gmail Badge](https://img.shields.io/badge/-anderson.pablo02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.pablo02@gmail.com)](mailto:anderson.pablo02@gmail.com)
 
 
