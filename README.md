@@ -66,7 +66,6 @@ Um ano e meio de experiência com <strong>react</strong>, <strong>react native</
                                 <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 
-
 </div> -->
 
 <br/>
@@ -125,7 +124,7 @@ Um ano e meio de experiência com <strong>react</strong>, <strong>react native</
 [![Gmail Badge](https://img.shields.io/badge/-anderson.pablo02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.pablo02@gmail.com)](mailto:anderson.pablo02@gmail.com)
 
 
-<!-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+74+999016492&text=Olá:D!)](https://api.whatsapp.com/send?phone=55+74+999016492&text=Olá:D!!) -->
+<!-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+74+&text=Olá:D!)](https://api.whatsapp.com/send?phone=55+74+&text=Olá:D!!) -->
 
 </div>
 <p align="left">
