@@ -4,54 +4,69 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-💻✍🏼 Sou estudante do curso de licenciatura em ciências da computação no Instituto Federal de Educação, Ciência e Tecnologia, Campus Senhor do Bonfim.
-
 <p align="left"> 
-Um ano e meio de experiência com <strong>react</strong>, <strong>react native</strong> , <strong>typescrip</strong> e <strong>javascript</strong>, também com algumas ferramentas de prototipagem como <strong>Figma</strong>.Continuo estudando e buscando me aprofundar cada vez mais nessas tecnologias. No momento estou desenvolvendo uma aplicação mobile que surgiu através de convite de parceria com a UFBA -Universidade Federal da Bahia. O projeto tem como objetivo transformar um projeto de extensão em uma versão virtual e promover acessibilidade para o mesmo.
 
+💻✍🏼 Sou estudante do curso de licenciatura em ciências da computação no Instituto Federal de Educação, Ciência e Tecnologia, Campus Senhor do Bonfim.
+Tenho 2 anos de experiência com <strong>react</strong>, <strong>react native</strong> , <strong>typescrip</strong> e <strong>javascript</strong>, também com algumas ferramentas de prototipagem como <strong>Figma</strong>. No mercado de trabalho tive minha primeira experiência como <strong>freelancer</strong>  desenvolvedor Web, utilizando React na empresa Troca créditos - TC. 
+</br>
+No momento estou  participando do desenvolvendo de uma aplicação mobile que surgiu através de convite de parceria com a UFBA -Universidade Federal da Bahia. O projeto tem como objetivo transformar um projeto de extensão em uma versão virtual e promover acessibilidade para o mesmo.
 
 <br/>
 
-<!-- <div style="display:inline_block"><br/>
-        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img align="center" alt="RN" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-                <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-                                <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+ <!-- <div style="display:inline_block"><br/>
+                           
 
 
+
+                          
 </div>  -->
 
-<br/>
+<!-- <br/> -->
 
 **Aplicações e Dados**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<div style="display:inline_block">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="RN" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>                                              
+</div> 
+ 
+</br>
 
 **Utilidades**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<div style="display:inline_block">
+  <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-333333?style=for-the-badge&logo=insomnia&logoColor=white"/>
+
+  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white"/>
+</div>
+
+</br>
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<div style="display:inline_block">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white"/>
+
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+</br>
+
 
 **Ferramentas de Desenvolvimento**
+<div style="display:inline_block">
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC"/>
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-<br/>
+  <img align="center" alt="trello" src="https://img.shields.io/badge/trello-333333?style=for-the-badge&logo=trello&logoColor=007ACCe"/>
+
+  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC"/>
+</div>
+
 <br/>
 
 <p align="left">
