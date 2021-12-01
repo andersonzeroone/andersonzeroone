@@ -13,16 +13,6 @@ No momento estou  participando do desenvolvendo de uma aplicação mobile que su
 
 <br/>
 
- <!-- <div style="display:inline_block"><br/>
-                           
-
-
-
-                          
-</div>  -->
-
-<!-- <br/> -->
-
 **Aplicações e Dados**
 
 <div style="display:inline_block">
