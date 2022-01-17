@@ -4,12 +4,14 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+<p align="left">
 
-💻✍🏼 Sou estudante do curso de licenciatura em ciências da computação no Instituto Federal de Educação, Ciência e Tecnologia, Campus Senhor do Bonfim.
-Tenho 2 anos de experiência com <strong>react</strong>, <strong>react native</strong> , <strong>typescrip</strong> e <strong>javascript</strong>, também com algumas ferramentas de prototipagem como <strong>Figma</strong>. No mercado de trabalho tive minha primeira experiência como <strong>freelancer</strong>  desenvolvedor Web, utilizando React na empresa Troca créditos - TC. 
-</br>
-No momento estou  participando do desenvolvendo de uma aplicação mobile que surgiu através de convite de parceria com a UFBA -Universidade Federal da Bahia. O projeto tem como objetivo transformar um projeto de extensão em uma versão virtual e promover acessibilidade para o mesmo.
+💻✍🏼Graduando em Licenciatura em Ciências da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia (IFBAIANO), campus Senhor do Bonfim. Com cursos nas áreas de <strong>Git</strong> e <strong>React-Native</strong>.
+
+Experiência de três anos em <strong>javascript</strong> e dois anos em <strong>react</strong>, <strong>react native</strong>, <strong>typescrip</strong>t e , além de outras ferramentas de prototipagem como <strong>Figma</strong>.
+No mercado de trabalho tive minha primeira experiência como freelancer <strong>desenvolvedor Web</strong>, utilizando React na empresa Troca créditos - TC.
+
+Atualmente participo do desenvolvendo de uma <strong>aplicação mobile</strong> que surgiu através de convite de parceria com a Universidade Federal da Bahia (UFBA). O projeto tem como objetivo promover a acessibilidade, transformando um projeto de extensão em uma versão virtual, com um aplicativo voltado à assistência nutricional no pré-natal e puerpério.
 
 <br/>
 
@@ -47,8 +49,8 @@ No momento estou  participando do desenvolvendo de uma aplicação mobile que su
 
 </br>
 
-
 **Ferramentas de Desenvolvimento**
+
 <div style="display:inline_block">
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC"/>
 
@@ -69,4 +71,3 @@ No momento estou  participando do desenvolvendo de uma aplicação mobile que su
 [![Github Badge](https://img.shields.io/badge/-andersonzeroone-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersonzeroone)](https://github.com/andersonzeroone)
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-pablo-js/)](https://www.linkedin.com/in/anderson-pablo-js/)
 [![Gmail Badge](https://img.shields.io/badge/-anderson.pablo02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.pablo02@gmail.com)](mailto:anderson.pablo02@gmail.com)
-
