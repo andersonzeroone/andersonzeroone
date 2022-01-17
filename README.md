@@ -6,11 +6,9 @@
 
 <p align="left">
 
-💻✍🏼Graduando em Licenciatura em Ciências da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia (IFBAIANO), campus Senhor do Bonfim. Com cursos nas áreas de <strong>Git</strong> e <strong>React-Native</strong>.
-
+💻✍🏼Graduando em Licenciatura em Ciências da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia (IFBAIANO), campus Senhor do Bonfim. Com cursos nas áreas de <strong>Git</strong> e <strong>React-Native</strong>.</br>
 Experiência de três anos em <strong>javascript</strong> e dois anos em <strong>react</strong>, <strong>react native</strong>, <strong>typescrip</strong>t e , além de outras ferramentas de prototipagem como <strong>Figma</strong>.
-No mercado de trabalho tive minha primeira experiência como freelancer <strong>desenvolvedor Web</strong>, utilizando React na empresa Troca créditos - TC.
-
+No mercado de trabalho tive minha primeira experiência como freelancer <strong>desenvolvedor Web</strong>, utilizando React na empresa Troca créditos - TC.</br>
 Atualmente participo do desenvolvendo de uma <strong>aplicação mobile</strong> que surgiu através de convite de parceria com a Universidade Federal da Bahia (UFBA). O projeto tem como objetivo promover a acessibilidade, transformando um projeto de extensão em uma versão virtual, com um aplicativo voltado à assistência nutricional no pré-natal e puerpério.
 
 <br/>
