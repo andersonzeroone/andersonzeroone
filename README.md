@@ -6,23 +6,26 @@
 
 <p align="left">
 
-💻✍🏼Graduando em Licenciatura em Ciências da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia (IFBAIANO), campus Senhor do Bonfim. Com cursos nas áreas de <strong>Git</strong> e <strong>React-Native</strong>.</br>
-Experiência de três anos em <strong>javascript</strong> e dois anos em <strong>react</strong>, <strong>react native</strong>, <strong>typescrip</strong>t e , além de outras ferramentas de prototipagem como <strong>Figma</strong>.
-No mercado de trabalho tive minha primeira experiência como freelancer <strong>desenvolvedor Web</strong>, utilizando React na empresa Troca créditos - TC.</br>
-Atualmente participo do desenvolvendo de uma <strong>aplicação mobile</strong> que surgiu através de convite de parceria com a Universidade Federal da Bahia (UFBA). O projeto tem como objetivo promover a acessibilidade, transformando um projeto de extensão em uma versão virtual, com um aplicativo voltado à assistência nutricional no pré-natal e puerpério.
+Sou desenvolvedor de software Front end e Mobile com mais de 2 anos de experiência. Minha experiência é particularmente aprofundada em desenvolvimento mobile Android e IOS com React Native, TypeScript e suas bibliotecas.
+
+Tenho experiencia em publicação de aplicativos na Play Store e App Store e disponibilização para testes utilizando TestFlight.
+
+Eu fui voluntario no desenvolvendo de uma aplicação mobile que surgiu através da parceria entre o IFBAIANO e a Universidade Federal da Bahia (UFBA). O projeto visa promover a acessibilidade, transformando um projeto de extensão em uma versão virtual, com um aplicativo voltado à assistência nutricional no pré-natal e puerpério.
+
+Como desenvolvedor, pretendendo alavancar cada vezes mais nas tecnologias, liderar projetos. Desenvolver soluções de software impactantes, viáveis ​​e transformadoras.
 
 <br/>
 
 **Aplicações e Dados**
 
 <div style="display:inline_block">
+  <img align="center" alt="RN" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="RN" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>                                              
+<!--   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>                                               -->
 </div> 
  
 </br>
