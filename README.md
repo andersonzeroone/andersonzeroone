@@ -6,17 +6,22 @@
 
 <p align="left">
 
-Sou desenvolvedor de software Front end e Mobile com mais de 2 anos de experiência. Minha experiência é particularmente aprofundada em desenvolvimento mobile Android e IOS com React Native, TypeScript e suas bibliotecas.
+I am a Mobile and Frontend Developer with 3+ years of experience building scalable cross-platform applications for Android and iOS, specializing in 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐚𝐧𝐝 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭. My background spans projects in 𝐟𝐢𝐧𝐭𝐞𝐜𝐡, 𝐡𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 𝐚𝐧𝐝 𝐚𝐮𝐭𝐨𝐦𝐨𝐭𝐢𝐯𝐞, always focusing on performance, accessibility, and user experience.
 
-Tenho experiencia em publicação de aplicativos na Play Store e App Store e disponibilização para testes utilizando TestFlight.
+𝐊𝐞𝐲 𝐡𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
 
-Eu fui voluntario no desenvolvendo de uma aplicação mobile que surgiu através da parceria entre o IFBAIANO e a Universidade Federal da Bahia (UFBA). O projeto visa promover a acessibilidade, transformando um projeto de extensão em uma versão virtual, com um aplicativo voltado à assistência nutricional no pré-natal e puerpério.
+- Successfully published apps on the 𝐀𝐩𝐩 𝐒𝐭𝐨𝐫𝐞 and 𝐆𝐨𝐨𝐠𝐥𝐞 𝐏𝐥𝐚𝐲, implementing automated 𝐂𝐈/𝐂𝐃 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 (𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐨𝐧𝐬, 𝐄𝐀𝐒, 𝐅𝐚𝐬𝐭𝐥𝐚𝐧𝐞, 𝐓𝐞𝐬𝐭𝐅𝐥𝐢𝐠𝐡𝐭).
+- Re-architecture of a 𝐜𝐫𝐲𝐩𝐭𝐨𝐜𝐮𝐫𝐫𝐞𝐧𝐜𝐲 𝐚𝐩𝐩, reducing app size by 𝟒𝟗% and improving scalability and maintainability.
+- Integrated Web3 authentication using 𝐌𝐚𝐠𝐢𝐜 𝐒𝐃𝐊 and 𝐖𝐚𝐥𝐥𝐞𝐭𝐂𝐨𝐧𝐧𝐞𝐜𝐭, enabling seamless 𝐝𝐀𝐩𝐩𝐬 connectivity.
+- Contributed to healthcare and accessibility solutions in collaboration with 𝐈𝐅𝐁𝐀𝐈𝐀𝐍𝐎 𝐚𝐧𝐝 𝐔𝐅𝐁𝐀, supporting maternal and prenatal care through mobile technology.
 
-Como desenvolvedor, pretendendo alavancar cada vezes mais nas tecnologias, liderar projetos. Desenvolver soluções de software impactantes, viáveis ​​e transformadoras.
+My goal is to combine innovation and impact, delivering mobile and blockchain solutions that not only scale but also create real-world value.
+
+𝐂𝐨𝐫𝐞 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤𝐬: React Native, React, TypeScript, JavaScript, Web3, Solidity, Firebase, Jest, CI/CD.
 
 <br/>
 
-**Aplicações e Dados**
+**Applications and Data**
 
 <div style="display:inline_block">
   <img align="center" alt="RN" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -30,7 +35,7 @@ Como desenvolvedor, pretendendo alavancar cada vezes mais nas tecnologias, lider
  
 </br>
 
-**Utilidades**
+**Utilities**
 
 <div style="display:inline_block">
   <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-333333?style=for-the-badge&logo=insomnia&logoColor=white"/>
@@ -50,7 +55,7 @@ Como desenvolvedor, pretendendo alavancar cada vezes mais nas tecnologias, lider
 
 </br>
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
 <div style="display:inline_block">
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC"/>
@@ -63,7 +68,7 @@ Como desenvolvedor, pretendendo alavancar cada vezes mais nas tecnologias, lider
 <br/>
 
 <p align="left">
-  📫💌 Entre em contato  através de: ⤵️
+  📫💌 Get in touch through: ⤵️
 </p>
 
 </p>  
