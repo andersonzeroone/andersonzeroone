@@ -6,7 +6,7 @@
 
 <p align="left">
 
-I am a Mobile and Frontend Developer with 3+ years of experience building scalable cross-platform applications for Android and iOS, specializing in 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐚𝐧𝐝 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭. My background spans projects in 𝐟𝐢𝐧𝐭𝐞𝐜𝐡, 𝐡𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 𝐚𝐧𝐝 𝐚𝐮𝐭𝐨𝐦𝐨𝐭𝐢𝐯𝐞, always focusing on performance, accessibility, and user experience.
+I am a Mobile and Frontend Developer with 4+ years of experience building scalable cross-platform applications for Android and iOS, specializing in 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐚𝐧𝐝 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭. My background spans projects in 𝐟𝐢𝐧𝐭𝐞𝐜𝐡, 𝐡𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 𝐚𝐧𝐝 𝐚𝐮𝐭𝐨𝐦𝐨𝐭𝐢𝐯𝐞, always focusing on performance, accessibility, and user experience.
 
 𝐊𝐞𝐲 𝐡𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
 
